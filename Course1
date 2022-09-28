@@ -7,6 +7,6 @@ You can choose one module from the list below:-
 
 Arjun J Reddy
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+It is process of optimization for solutions containing recursion. We can store output of recurring inputs instead of recalculating which in turn leads to performance improvements.
 
 
